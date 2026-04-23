@@ -3,9 +3,11 @@
 ## 🧑🏽‍💻 Um pouquinho sobre mim:
 <div>
   <p>
-    Sou estudante de <b>Sistemas de Informação na UNEB</b> (atualmente no 5º semestre), apaixonado por desenvolvimento de software. 
+    Sou estudante de <b>Sistemas de Informação na UNEB</b>, com forte atuação e foco em <b>Engenharia de Dados e Analytics</b>. 
     <br><br>
-    Meu foco atual é o desenvolvimento de soluções em <b>Robótica</b> utilizando <b>ROS2</b> (Robot Operating System) para manipulação e simulação, além de fortalecer minhas habilidades em <b>Backend</b> com <b>Java</b> e <b>Spring Boot</b>. Tenho interesse em automação, microsserviços e controle de hardware.
+    Minha paixão é transformar dados brutos em informações estratégicas. Tenho experiência prática na construção de pipelines <b>ETL</b> de ponta a ponta, utilizando <b>Python</b> para processamento pesado, orquestração de fluxos com <b>Apache Airflow</b> e modelagem de dados relacionais (Star Schema). 
+    <br><br>
+    Minha base técnica também foi forjada na pesquisa em <b>Robótica (BahiaRT)</b>, onde aprendi a lidar com processamento de dados espaciais complexos em tempo real, tolerância a falhas e modelos probabilísticos usando ROS2 e Python. Hoje, aplico esse mesmo rigor analítico para garantir governança, qualidade de dados e performance em bancos de dados e dashboards executivos.
   </p>
 </div>
 
