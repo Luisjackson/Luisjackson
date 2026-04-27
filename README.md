@@ -3,7 +3,7 @@
 ## 🧑🏽‍💻 Um pouquinho sobre mim:
 <div>
   <p>
-    Sou estudante de <b>Sistemas de Informação na UNEB</b>, com forte atuação e foco em <b>Engenharia de Dados e Analytics</b>. 
+    Sou estudante de <b>Sistemas de Informação na UNEB</b>, com foco em <b>Engenharia de Dados e Analytics</b>. 
     <br><br>
     Minha paixão é transformar dados brutos em informações estratégicas. Tenho experiência prática na construção de pipelines <b>ETL</b> de ponta a ponta, utilizando <b>Python</b> para processamento pesado, orquestração de fluxos com <b>Apache Airflow</b> e modelagem de dados relacionais (Star Schema). 
     <br><br>
